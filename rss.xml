@@ -3,7 +3,7 @@
 <rss version="2.0">
   <channel>
     <title>イベント情報RSS（サンプル）</title>
-    <link>https://tetsu-shoji.github.io/test/</link>
+    <link>https://tetsu-shoji.github.io/RSS/</link>
     <description>地域イベントの新着情報を配信するデモRSSです。</description>
 
     <!-- ▼コミット直前の現在時刻（GMT）に置き換え推奨 -->
@@ -13,7 +13,7 @@
     <item>
       <title>春の地域フェスタ２</title>
       <link>https://tetsu-shoji.github.io/test/events/spring-festa.html</link>
-      <guid isPermaLink="true">https://tetsu-shoji.github.io/test/events/spring-festa.html</guid>
+      <guid isPermaLink="true">https://tetsu-shoji.github.io/RSS/events/spring-festa.html</guid>
       <description><![CDATA[
         地元団体によるステージと飲食ブースが並ぶ春のイベントです。
         （開催日：2026-04-3 10:00 – 15:00／会場：中央公園）
@@ -27,8 +27,8 @@
     <!-- 既存の item（過去イベント） -->
     <item>
       <title>潮見高架下ひろば オープニングマルシェ</title>
-      <link>https://tetsu-shoji.github.io/test/events/shiomi-opening.html</link>
-      <guid isPermaLink="true">https://tetsu-shoji.github.io/test/events/shiomi-opening</guid>
+      <link>https://tetsu-shoji.github.io/RSS/events/shiomi-opening.html</link>
+      <guid isPermaLink="true">https://tetsu-shoji.github.io/RSS/events/shiomi-opening</guid>
       <description><![CDATA[地域の飲食・物販・ワークショップが集まる屋外マルシェ。ステージ企画も予定。（開催日：2026-02-22 10:00 – 16:00／会場：潮見高架下ひろば（仮））]]></description>
       <pubDate>Mon, 19 Jan 2026 10:35:00 GMT</pubDate>
     </item>
